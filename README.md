@@ -1,2 +1,0 @@
-# secondtime
-secondtimeGit-FirsttimeIsProgateHP
